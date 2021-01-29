@@ -1,7 +1,7 @@
 package main
 
 import (
-	"tableimage"
+	tableimage "go-table-image"
 )
 
 func main() {
