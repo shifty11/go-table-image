@@ -1,4 +1,4 @@
-module go-table-image
+module github.com/shifty11/go-table-image
 
 go 1.15
 
